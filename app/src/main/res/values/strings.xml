@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PetesZAA</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="start">Start Order</string>
+    <string name="place">Place Order</string>
+    <string name="recent">Previous Orders</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="company">Pete\'s ZAA</string>
+    <string name="previous">Back</string>
+    <string name="pizza">Pizza</string>
+
+    <string name="selectTopping">Please select your topping</string>
+    <string name="selectCrust">Please select your crust</string>
+    <string name="selectSauce">Please select your sauce</string>
+
+    <string name="thinCrust">Thin Crust</string>
+    <string name="deepDish">Deep Dish</string>
+    <string name="panFried">Pan Fried</string>
+
+    <string name="redSauce">Red Sauce</string>
+    <string name="whiteSauce">White Sauce</string>
+    <string name="noSauce">No Sauce</string>
+
+    <string name="pepperoni">Pepperoni</string>
+    <string name="chicken">Chicken</string>
+    <string name="sausage">Sausage</string>
+    <string name="peppers">Green Peppers</string>
+    <string name="onion">Onions</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="packpunch">Pack-a-Punch(Extra cheese and spices!)</string>
+
+</resources>
